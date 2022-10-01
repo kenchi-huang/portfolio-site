@@ -1,2 +1,2 @@
 # portfolio-site
-nodeJS iteration to my original portfolio site
+nextJS iteration to my original portfolio site
